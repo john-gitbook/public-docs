@@ -2,23 +2,14 @@
 
 * [Welcome](README.md)
 * [Welcome 2](Auto-filling-values-into-create-forms.md)
-
-## Content Editor
-
-* [Overview](content-editor/overview.md)
 * [Import](content-editor/import.md)
+* [Overview](content-editor/overview.md)
 * [Editor](content-editor/editor/README.md)
   * [Navigation](content-editor/editor/navigation.md)
   * [Content structure](content-editor/editor/content-structure/README.md)
     * [Spaces](content-editor/editor/content-structure/what-is-a-space.md)
     * [Pages](content-editor/editor/content-structure/content-in-a-space.md)
     * [Collections](content-editor/editor/content-structure/what-is-a-collection.md)
-* [Editing content](content-editor/editing-content/README.md)
-  * [Live edits](content-editor/editing-content/live-edits.md)
-  * [Formatting your content](content-editor/editing-content/formatting.md)
-  * [Inline content](content-editor/editing-content/inline.md)
-  * [Markdown](content-editor/editing-content/markdown.md)
-  * [Write with GitBook AI](content-editor/editing-content/write-and-edit-with-ai.md)
 * [Blocks](content-editor/blocks/README.md)
   * [Paragraphs](content-editor/blocks/paragraph.md)
   * [Headings](content-editor/blocks/heading.md)
@@ -43,11 +34,16 @@
   * [Page links](content-editor/blocks/page-link.md)
   * [Reusable content blocks (beta)](content-editor/blocks/reusable-content-blocks-beta.md)
   * [Snippets](content-editor/blocks/snippets.md)
+* [Editing content](content-editor/editing-content/README.md)
+  * [Live edits](content-editor/editing-content/live-edits.md)
+  * [Formatting your content](content-editor/editing-content/formatting.md)
+  * [Inline content](content-editor/editing-content/inline.md)
+  * [Markdown](content-editor/editing-content/markdown.md)
+  * [Write with GitBook AI](content-editor/editing-content/write-and-edit-with-ai.md)
 * [Broken links](content-editor/broken-links.md)
-* [Searching content](content-editor/searching-your-content/README.md)
-  * [GitBook AI](content-editor/searching-your-content/gitbook-ai.md)
-  * [Search & Quick find](content-editor/searching-your-content/quick-find.md)
-* [Version control](content-editor/activity-history.md)
+  * [Searching content](content-editor/searching-your-content/README.md)
+    * [GitBook AI](content-editor/searching-your-content/gitbook-ai.md)
+    * [Search & Quick find](content-editor/searching-your-content/quick-find.md)
 
 ## Published Documentation
 
@@ -79,6 +75,7 @@
 * [Site redirects](published-documentation/site-redirects.md)
 * [Site permissions](published-documentation/site-permissions.md)
 * [SEO](published-documentation/seo.md)
+* [Version control](content-editor/activity-history.md)
 
 ## Integrations
 
