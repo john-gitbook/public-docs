@@ -6,7 +6,7 @@ noIndex: true
 
 # Overview
 
-<div data-full-width="false"><figure><img src="../.gitbook/assets/editor-overview.png" alt=""><figcaption><p>The GitBook editor.</p></figcaption></figure></div>
+<div data-full-width="false"><figure><img src="../.gitbook/assets/editor overview.png" alt=""><figcaption><p>The GitBook editor.</p></figcaption></figure></div>
 
 GitBook has a powerful block-based editor that allows you to seamlessly create, update, and enhance your content.
 
