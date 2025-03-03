@@ -18,6 +18,8 @@ layout:
 
 # Welcome
 
+Hi team!
+
 {% hint style="info" %}
 Welcome to [GitBook](content-editor/import.md).
 {% endhint %}
