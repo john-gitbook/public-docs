@@ -30,8 +30,7 @@ Hi there!
 
 We want to help **teams to work more efficiently** with a simple but powerful platform that helps them **share their knowledge**.
 
-[Hash Sign(#)][Space]Any Header/subtitle or any text you want starting with hash
-[Tab][Tab]Your text
+
 
 ### Discover GitBook
 
