@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [Welcome 2](Auto-filling-values-into-create-forms.md)
 * [Import](content-editor/import.md)
 * [Overview](content-editor/overview.md)
 * [Editor](content-editor/editor/README.md)
