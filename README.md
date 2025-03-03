@@ -22,7 +22,7 @@ layout:
 Welcome to [GitBook](content-editor/import.md).
 {% endhint %}
 
-We want to help **teams to work more efficiently** with a simple but powerful platform that helps them **share their knowledge**.
+We want to help **teams to work more efficiently** with a simple but powerful platform that helps them **share their knowledge**. Hello world!
 
 ### Discover GitBook
 
