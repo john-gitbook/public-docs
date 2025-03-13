@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
-* [Import](content-editor/import.md)
+* [Import](README.md)
 * [Overview](content-editor/overview.md)
 * [Editor](content-editor/editor/README.md)
   * [Navigation](content-editor/editor/navigation.md)
@@ -9,6 +8,12 @@
     * [Spaces](content-editor/editor/content-structure/what-is-a-space.md)
     * [Pages](content-editor/editor/content-structure/content-in-a-space.md)
     * [Collections](content-editor/editor/content-structure/what-is-a-collection.md)
+  * [Editing content](editor/editing-content/README.md)
+    * [Live edits](editor/editing-content/live-edits.md)
+    * [Formatting your content](editor/editing-content/formatting.md)
+    * [Inline content](editor/editing-content/inline.md)
+    * [Markdown](editor/editing-content/markdown.md)
+    * [Write with GitBook AI](editor/editing-content/write-and-edit-with-ai.md)
 * [Blocks](content-editor/blocks/README.md)
   * [Paragraphs](content-editor/blocks/paragraph.md)
   * [Headings](content-editor/blocks/heading.md)
@@ -33,12 +38,6 @@
   * [Page links](content-editor/blocks/page-link.md)
   * [Reusable content blocks (beta)](content-editor/blocks/reusable-content-blocks-beta.md)
   * [Snippets](content-editor/blocks/snippets.md)
-* [Editing content](content-editor/editing-content/README.md)
-  * [Live edits](content-editor/editing-content/live-edits.md)
-  * [Formatting your content](content-editor/editing-content/formatting.md)
-  * [Inline content](content-editor/editing-content/inline.md)
-  * [Markdown](content-editor/editing-content/markdown.md)
-  * [Write with GitBook AI](content-editor/editing-content/write-and-edit-with-ai.md)
 * [Broken links](content-editor/broken-links.md)
   * [Searching content](content-editor/searching-your-content/README.md)
     * [GitBook AI](content-editor/searching-your-content/gitbook-ai.md)
@@ -46,7 +45,6 @@
 
 ## Published Documentation
 
-* [Overview](published-documentation/overview.md)
 * [Publish a docs site](published-documentation/publish-a-docs-site/README.md)
   * [Public publishing](published-documentation/publish-a-docs-site/public-publishing.md)
   * [Private publishing with share links](published-documentation/publish-a-docs-site/share-links.md)
@@ -71,10 +69,12 @@
   * [Troubleshooting custom domain setup](published-documentation/custom-domain/troubleshooting.md)
 * [Site insights](published-documentation/insights.md)
 * [Site settings](published-documentation/site-settings.md)
-* [Site redirects](published-documentation/site-redirects.md)
 * [Site permissions](published-documentation/site-permissions.md)
 * [SEO](published-documentation/seo.md)
+* [Overview](published-documentation/overview.md)
+* [Site redirects](published-documentation/site-redirects.md)
 * [Version control](content-editor/activity-history.md)
+* [Welcome](published-documentation/readme.md)
 
 ## Integrations
 
@@ -151,3 +151,7 @@
 
 * [Page one](last-modified-example/page-one/README.md)
   * [Page 1](last-modified-example/page-one/page-1.md)
+
+***
+
+* [Page 2](page-2.md)

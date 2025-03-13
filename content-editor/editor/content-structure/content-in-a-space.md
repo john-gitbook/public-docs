@@ -12,7 +12,7 @@ You can create as many pages as you need in a space. They’re all visible on th
 
 ### Hide a page from the table of contents
 
-You can hide a page or group of pages from your site's table of contents by clicking the page’s **Action menu** <img src="../../../.gitbook/assets/Actions menu.png" alt="Three vertical dots" data-size="line">  and toggling **Hide page**.
+You can hide a page or group of pages from your site's table of contents by clicking the page’s **Action menu** <img src="../../../.gitbook/assets/Actions menu.png" alt="Three vertical dots" data-size="line"> and toggling **Hide page**.
 
 Hidden pages will still be indexable by search and GitBook AI, but will not appear in the table of contents in your published site. Hidden pages will still be accessible through direct links.
 
@@ -41,7 +41,7 @@ You can nest pages by dragging and dropping a page below an other in the table o
 
 When you change the title of a page, the page’s slug (the part at the very end of the URL, e.g. `/hello-world`) will also change — unless you’ve manually set the page’s slug previously.
 
-You can change the title and the slug of a page at any time by clicking opening the page’s **Action menu** <img src="../../../.gitbook/assets/Actions menu.png" alt="Three vertical dots" data-size="line">  and choosing **Rename**.
+You can change the title and the slug of a page at any time by clicking opening the page’s **Action menu** <img src="../../../.gitbook/assets/Actions menu.png" alt="Three vertical dots" data-size="line"> and choosing **Rename**.
 
 #### Page groups
 
@@ -59,7 +59,7 @@ External links are simply links to external sites and resources. Adding a link d
 
 <figure><img src="../../../.gitbook/assets/editor-new-page.png" alt=""><figcaption><p>You can create a new page or page group from table of contents.</p></figcaption></figure>
 
-When in [live edit](../../editing-content/live-edits.md) mode or in a [change request](../../../collaboration/change-requests.md), you can create a new page by clicking **Add new page** > **New document page** at the bottom of your table of contents.&#x20;
+When in [live edit](../../../editor/editing-content/live-edits.md) mode or in a [change request](../../../collaboration/change-requests.md), you can create a new page by clicking **Add new page** > **New document page** at the bottom of your table of contents.
 
 Alternatively, you can hover between pages in the table of contents and click the **+** icon that appears.
 
@@ -71,7 +71,7 @@ Just like creating a new page, you can create a page group by choosing **Add new
 
 ### Create an external link <a href="#external-links" id="external-links"></a>
 
-To add an external link to your space, click the **Add new page** button at the bottom of the table of contents, then choose **New link**. Give the link a title — this will appear in the table of contents — and then add the URL and click **Insert**.
+To add an external link to your space, click the **Add new page** button at the bottom of the table of contents, then choose **New link**. Give the link a title — this will appear in the table of contents — and then add the URL and click **Insert**.
 
 ### Add an icon or emoji to your page
 
@@ -90,7 +90,7 @@ You can choose the style and weight of the icon in your published site's setting
 ### Can’t see the option to create a new page?
 
 {% hint style="warning" %}
-If [live edits](../../editing-content/live-edits.md) are disabled for your space, you’ll need to create or edit a [change request](../../../collaboration/change-requests.md). Once you’re in a change request, the **New page** button (which allows you to create pages, page groups and links) will be available in the table of contents.
+If [live edits](../../../editor/editing-content/live-edits.md) are disabled for your space, you’ll need to create or edit a [change request](../../../collaboration/change-requests.md). Once you’re in a change request, the **New page** button (which allows you to create pages, page groups and links) will be available in the table of contents.
 
 Alternatively, you may not have the correct [permissions](../../../account-management/member-management/permissions-and-inheritance.md) to edit a page.
 {% endhint %}

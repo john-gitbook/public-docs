@@ -6,7 +6,7 @@ description: >-
 
 # Formatting your content
 
-To format your text, simply select it and choose one of the formats from the context menu — or use a keyboard shortcut or Markdown syntax. We’ve listed those out below:
+To format your text, simply select it and choose one of the formats from the context menu — or use a keyboard shortcut or Markdown syntax. We’ve listed those out below:
 
 <figure><img src="../../.gitbook/assets/editor-format.png" alt=""><figcaption><p>bold, italics context menu with text highlighted</p></figcaption></figure>
 
@@ -70,7 +70,7 @@ When you add a link to text on your page, you’ll be prompted to provide the li
 
 This is [a link to an external page](https://www.gitbook.com).
 
-This is a [link to another page in this space](../blocks/).
+This is a [link to another page in this space](../../content-editor/blocks/).
 
 This is a [link to a section on this page](formatting.md#code).
 

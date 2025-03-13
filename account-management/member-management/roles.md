@@ -38,7 +38,7 @@ Inviting a guest to the organization means that they’ll only ever see content 
 
 A reader is the most basic role in GitBook: it gives read-only access.
 
-**Reader seats are paid for organizations on all plans**.&#x20;
+**Reader seats are paid for organizations on all plans**.
 
 </details>
 
@@ -56,7 +56,7 @@ Commenters have the same read-only access as readers, but they’re also able to
 
 <summary>Editor</summary>
 
-Editors are able to read and comment, just like a commenter, but they’re also able to edit content in a couple of ways. Firstly, for spaces that are **open** for [live edits](../../content-editor/editing-content/live-edits.md), editors can edit the content directly. Secondly, for spaces that have live edits **locked**, editors can create and submit [change requests](../../collaboration/change-requests.md). Editors cannot merge change requests.
+Editors are able to read and comment, just like a commenter, but they’re also able to edit content in a couple of ways. Firstly, for spaces that are **open** for [live edits](../../editor/editing-content/live-edits.md), editors can edit the content directly. Secondly, for spaces that have live edits **locked**, editors can create and submit [change requests](../../collaboration/change-requests.md). Editors cannot merge change requests.
 
 </details>
 
@@ -74,7 +74,7 @@ Reviewers have all the same permissions as an editor however, they can also merg
 
 <summary>Creator</summary>
 
-Creators are essentially content-level admins. They can create, delete, and publish spaces and collections; manage permissions at a content level.&#x20;
+Creators are essentially content-level admins. They can create, delete, and publish spaces and collections; manage permissions at a content level.
 
 If a creator is also a creator or admin in another GitBook organization, they have the ability to move content between organizations.
 
@@ -84,7 +84,7 @@ If a creator is also a creator or admin in another GitBook organization, they ha
 
 <summary>Admin</summary>
 
-An admin is like a super-user for your organization – they have full access! Set someone as an admin if you’re comfortable with them making changes that can impact billing, managing members, and generally just being in control of all areas of the organization.&#x20;
+An admin is like a super-user for your organization – they have full access! Set someone as an admin if you’re comfortable with them making changes that can impact billing, managing members, and generally just being in control of all areas of the organization.
 
 If an admin is also a creator or admin in another GitBook organization, they have the ability to move content between organizations.
 

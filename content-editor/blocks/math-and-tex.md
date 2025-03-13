@@ -8,15 +8,13 @@ description: >-
 
 You can use the mathTeX format to include mathematical formulae in your documentation. We offer this through the [KaTeX](https://katex.org/docs/supported.html) library.
 
-You can also add mathTeX [as inline content](../editing-content/inline.md#math-and-tex).&#x20;
+You can also add mathTeX [as inline content](../../editor/editing-content/inline.md#math-and-tex).
 
 ### Example of Math & TeX block
 
 $$
 s = \sqrt{\frac{1}{N-1} \sum_{i=1}^N (x_i - \overline{x})^2}
 $$
-
-
 
 ### Representation in Markdown
 

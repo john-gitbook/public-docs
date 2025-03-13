@@ -9,7 +9,7 @@ description: >-
 A paragraph is the most basic content block you can use on GitBook. It’s exactly what it says — a paragraph of text.
 
 {% hint style="info" %}
-You can [add other inline content](../editing-content/inline.md) to your paragraph, such as emojis, images and Math & TeX. You can also [format your paragraph text](../editing-content/formatting.md) using the context menu or keyboard shortcuts, or [using Markdown](../editing-content/markdown.md).
+You can [add other inline content](../../editor/editing-content/inline.md) to your paragraph, such as emojis, images and Math & TeX. You can also [format your paragraph text](../../editor/editing-content/formatting.md) using the context menu or keyboard shortcuts, or [using Markdown](../../editor/editing-content/markdown.md).
 {% endhint %}
 
 ### Example of a paragraph
