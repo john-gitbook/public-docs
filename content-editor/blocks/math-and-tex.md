@@ -8,7 +8,7 @@ description: >-
 
 You can use the mathTeX format to include mathematical formulae in your documentation. We offer this through the [KaTeX](https://katex.org/docs/supported.html) library.
 
-You can also add mathTeX [as inline content](../../editor/editing-content/inline.md#math-and-tex).
+You can also add mathTeX [as inline content](../editing-content/inline.md#math-and-tex).
 
 ### Example of Math & TeX block
 

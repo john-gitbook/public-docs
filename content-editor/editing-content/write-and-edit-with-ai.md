@@ -40,7 +40,7 @@ As you can imagine, this option will summarize all the content on your page — 
 
 #### Explain this
 
-This will break down the complex information on your page and explain it in simpler language — including explaining acronyms and other jargon. This is perfect if the page you’re reading involves a lot of complex information, or you want to add an explainer for less technical folks.
+This will break down the complex information on your page and explain it in simpler language — including explaining acronyms and other jargon. This is perfect if the page you’re reading involves a lot of complex information, or you want to add an explainer for less technical folks.
 
 #### Translate
 

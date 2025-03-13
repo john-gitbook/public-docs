@@ -20,9 +20,9 @@ layout:
 
 
 
-{% include "../.gitbook/includes/welcome-page.md" %}
+{% include ".gitbook/includes/welcome-page.md" %}
 
-{% include "../.gitbook/includes/untitled.md" %}
+{% include ".gitbook/includes/untitled.md" %}
 
 ### GitBook Product Demo
 

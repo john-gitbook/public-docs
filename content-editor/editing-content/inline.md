@@ -34,10 +34,10 @@ By default, images are set to their original size with a maximum width of 300px.
 
 1. **Inline size:** The image is proportionally sized to the font — great for icons and badges.
 2. **Original size:** The image will remain inline at its original size, with a maximum width of 300 pixels.
-3. **Convert to block:** This turns an inline image into a [image block](../../content-editor/blocks/insert-images.md), which is as wide as your content.
+3. **Convert to block:** This turns an inline image into a [image block](../blocks/insert-images.md), which is as wide as your content.
 
 {% hint style="info" %}
-[Image blocks](../../content-editor/blocks/insert-images.md) offer more options, including more sizes and the ability to add a caption — but will not appear inline with your text.
+[Image blocks](../blocks/insert-images.md) offer more options, including more sizes and the ability to add a caption — but will not appear inline with your text.
 {% endhint %}
 
 ### Emojis
@@ -54,7 +54,7 @@ You can insert three different types of links:
 
 #### Relative links
 
-Relative links are links created by linking to [pages](../../content-editor/editor/content-structure/content-in-a-space.md) or [snippets](../../snippets/snippets-beta.md) that already exist in your space. The advantage of using relative links is that if the page’s URL, name, or location changes, its reference will be kept up to date — so you get fewer broken links.
+Relative links are links created by linking to [pages](../editor/content-structure/content-in-a-space.md) or [snippets](../../snippets/snippets-beta.md) that already exist in your space. The advantage of using relative links is that if the page’s URL, name, or location changes, its reference will be kept up to date — so you get fewer broken links.
 
 {% hint style="info" %}
 **Note:** If you link to a snippet, but then [convert your snippet into a page](../../snippets/snippets-beta.md#convert-a-snippet-to-a-page) in your documentation, your link will still send people to the original snippet, which will be archived.
@@ -95,5 +95,5 @@ Here’s how to insert an email address `mailto` link:
 Using this option, you can create an inline math formula in your content, like this: $$f(x) = x * e^{2 pi i \xi x}$$. We use the [KaTeX](https://katex.org/docs/supported.html) library to render formulas.
 
 {% hint style="info" %}
-You can also insert [a block-level math formula](../../content-editor/blocks/math-and-tex.md) by opening the command palette in an empty block and choosing the second Math & TeX option.
+You can also insert [a block-level math formula](../blocks/math-and-tex.md) by opening the command palette in an empty block and choosing the second Math & TeX option.
 {% endhint %}

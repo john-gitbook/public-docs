@@ -45,7 +45,7 @@ We use [Prism](https://github.com/PrismJS/prism) for syntax highlighting. You ca
 GitBook automatically detects and creates ordered and unordered lists as you type.
 
 * Begin a line with `-` or `*` to start an unordered bullet list.
-* Begin a line with `1.` to start a numbered list.&#x20;
+* Begin a line with `1.` to start a numbered list.
 * Begin a line with `- [ ]` to start a task list.
 
 {% hint style="info" %}
@@ -60,7 +60,7 @@ Begin a line with `>` to create a block quote. If you select an entire paragraph
 
 ### Dividers
 
-Type `---` then hit `Enter` to create a divider on your page.&#x20;
+Type `---` then hit `Enter` to create a divider on your page.
 
 ***
 
