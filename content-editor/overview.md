@@ -1,10 +1,11 @@
 ---
 description: Edit pages, collections, content and more.
 noIndex: true
-icon: bullseye-arrow
 ---
 
-# Overview
+# 😃 Overview
+
+
 
 <div data-full-width="false"><figure><img src="../.gitbook/assets/editor overview.png" alt=""><figcaption><p>The GitBook editor.</p></figcaption></figure></div>
 

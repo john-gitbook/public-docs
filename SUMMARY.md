@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Import](README.md)
-* [Overview](content-editor/overview.md)
+* [😃 Overview](content-editor/overview.md)
 * [Editor](content-editor/editor/README.md)
   * [Navigation](content-editor/editor/navigation.md)
   * [Content structure](content-editor/editor/content-structure/README.md)
