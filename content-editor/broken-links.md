@@ -11,7 +11,7 @@ This feature is available as part of the Pro plan and Enterprise plan. To find o
 
 <figure><img src="../.gitbook/assets/published-content-broken-links.png" alt=""><figcaption><p>Broken links panel</p></figcaption></figure>
 
-You can add a few different [types of links](editing-content/inline.md#links) to your pages in GitBook. If someone has broken a [relative link](editing-content/inline.md#relative-links) while making a change request by updating it or changing its location, you’ll see a notification letting you know there’s something to fix.
+You can add a few different [types of links](../editing-content/inline.md#links) to your pages in GitBook. If someone has broken a [relative link](../editing-content/inline.md#relative-links) while making a change request by updating it or changing its location, you’ll see a notification letting you know there’s something to fix.
 
 {% content-ref url="broken-reference/" %}
 [broken-reference](broken-reference/)

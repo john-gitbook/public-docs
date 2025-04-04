@@ -7,7 +7,7 @@ hidden: true
 
 # Snippets
 
-Snippet blocks are a great way to reference a snippet in your content. Snippet blocks help make the link to your snippet stand out on the page compared to [an inline link](../editing-content/inline.md#relative-links).
+Snippet blocks are a great way to reference a snippet in your content. Snippet blocks help make the link to your snippet stand out on the page compared to [an inline link](../../editing-content/inline.md#relative-links).
 
 You can only use snippet blocks for internal pages. If you add a snippet block to a page in a published space, the public documentation will show the block as a broken link.
 

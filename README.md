@@ -1,77 +1,33 @@
 ---
-description: "Find out how to easily migrate your existing documentation —\_and which formats GitBook supports."
-hidden: true
-noIndex: true
-icon: arrow-up-to-line
+description: >-
+  GitBook is a platform for capturing and documenting technical knowledge — from
+  product docs, to internal knowledge bases and APIs.
+icon: hand-wave
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
-Hello world
-New line
-another line
 
-# Import
+# Welcome
 
-There are two methods for importing content into GitBook:
+We want to help **teams to work more efficiently** with a simple but powerful platform that helps them **share their knowledge**.
 
-1. [Using our import tool](./#using-our-import-tool)
-2. [Using Git Sync](./#importing-via-git-sync)
 
-### Using our import tool
 
-You can migrate and unify existing documentation in GitBook using the import tool. You have the option to import single or multiple pages — although some limits apply, which we’ll explain below.
+### Discover GitBook
 
-{% hint style="info" %}
-**Permissions**\
-Only users with [editor permissions or higher](account-management/member-management/roles.md) can edit pages.
-{% endhint %}
+<table data-view="cards"><thead><tr><th></th><th></th><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Content editor</strong></td><td>Edit pages, collections, content, and more in GitBook.</td><td></td><td><a href=".gitbook/assets/content-editor.png">content-editor.png</a></td><td><a href="broken-reference/">broken-reference</a></td></tr><tr><td><strong>Snippets &#x26; insights</strong></td><td>Learn about capturing and refining knowledge in GitBook.</td><td></td><td><a href=".gitbook/assets/snippets-and-insights (2).png">snippets-and-insights (2).png</a></td><td><a href="broken-reference/">broken-reference</a></td></tr><tr><td><strong>Integrations</strong></td><td>Learn about the tools and workflows you can integrate with.</td><td></td><td><a href=".gitbook/assets/integrations (4).png">integrations (4).png</a></td><td><a href="broken-reference/">broken-reference</a></td></tr><tr><td><strong>Published documentation</strong></td><td>Discover how to share and customize your content publicly or privately.</td><td></td><td><a href=".gitbook/assets/published-documentation (1).png">published-documentation (1).png</a></td><td><a href="broken-reference/">broken-reference</a></td></tr><tr><td><strong>Collaboration</strong></td><td>Learn how to invite and collaborate with your team.</td><td></td><td><a href=".gitbook/assets/collaboration (1).png">collaboration (1).png</a></td><td><a href="broken-reference/">broken-reference</a></td></tr><tr><td><strong>Account management</strong></td><td>Manage your organization, account, and billing.</td><td></td><td><a href=".gitbook/assets/account-management (1).png">account-management (1).png</a></td><td><a href="broken-reference/">broken-reference</a></td></tr></tbody></table>
 
-#### Supported import formats
+### GitBook Product Demo
 
-GitBook supports imports from websites or files in the following formats:
-
-* Markdown (.md or .markdown)
-* HTML (.html)
-* Microsoft Word (.docx)
-
-We also support imports from:
-
-* Confluence
-* Notion
-* GitHub Wiki
-* Quip
-* Dropbox Paper
-* Google Docs
-
-If you want to **import multiple pages**, you can upload a ZIP file containing HTML or Markdown files.
-
-#### The Import panel
-
-When you create a new [space](content-editor/editor/content-structure/what-is-a-space.md), you’ll have the option to import content from the bottom sheet of the first empty page:
-
-Alternatively, you can always import a page or subpage by selecting **New page** > **Import new pages** in the [table of contents](content-editor/editor/navigation.md#table-of-contents), or opening the Actions menu <img src=".gitbook/assets/Actions menu.png" alt="" data-size="line"> for a page and choosing **Import subpages**.
-
-<div data-full-width="false"><figure><img src=".gitbook/assets/editor-import.png" alt=""><figcaption><p>There are two ways to import content into GitBook.</p></figcaption></figure></div>
-
-After choosing an input source, you can select the file you’d like to import.
-
-{% hint style="warning" %}
-Although GitBook supports importing content from different sources, the result may differ from your source due to differences in product features and document formats.
-{% endhint %}
-
-#### Limitations
-
-GitBook currently has the following limits for imported content:
-
-* The maximum number of pages that can be uploaded in a single import is **20**.
-* The maximum number of files (images etc.) that can be uploaded in a single import is **20**.
-
-### Importing via Git Sync
-
-If you want to import large amounts of content, you can use our [Git Sync](integrations/git-sync/) feature, which has no limitation on the amount of content that can be imported.
-
-To import using Git Sync, you’ll first need to add your content to a GitHub or GitLab repository — or folder if you're using a monorepo setup — as Markdown files. If your current tool does not support Markdown export, various online tools can assist with conversion from other formats, such as PDF, HTML, etc.
-
-Once you’ve set up your Git repository, simply [set up a Git Sync integration](integrations/git-sync/) in your GitBook organization. Be sure to select the direction **GitHub -> GitBook** when choosing the initial sync direction.
-
-{% hint style="info" %}
-If you’re having trouble with the import process using either method above, please [get in touch with our support team](mailto:support@gitbook.com) — they’d be happy to help.
-{% endhint %}
+{% embed url="https://www.youtube.com/playlist?list=PLZAlnWDc6FDsodH14aMS3eNRoTYMbua6U" %}
+GitBook Product Demo
+{% endembed %}

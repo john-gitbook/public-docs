@@ -31,9 +31,9 @@ You can set any title you choose for your space. Note: this setting will only af
 You can set an emoji, or upload an icon of your own. Note: this setting will only affect the icon that displays _in the published documentation_ and it’ll also be used as the favicon for the page. If you want to edit the icon used within the GitBook app, close the customize section and click on the icon at the top of the space.
 
 **Custom logo** <mark style="background-color:purple;">Premium & Enterprise</mark>\
-You can replace _both_ the published space’s title and icon with a custom logo so that your documentation better reflects your own branding — and, you can upload two versions: one for light mode, and one for dark mode.&#x20;
+You can replace _both_ the published space’s title and icon with a custom logo so that your documentation better reflects your own branding — and, you can upload two versions: one for light mode, and one for dark mode.
 
-#### What’s the difference between the icon and logo options?
+**What’s the difference between the icon and logo options?**
 
 The icon setting lets you upload a small, 132x132px image, which will appear _alongside_ your space title. The custom logo option lets you upload a larger image (we recommend at least 600px wide), which will completely replace any icon and title you’ve set.
 
@@ -103,7 +103,7 @@ You can choose what type of appearance you would like your link to have, and can
 
 When enabled, simply add a title and a URL for each link. We support two levels of header navigation, meaning that you can have sub-links that appear in a dropdown menu.
 
-![](<../../.gitbook/assets/Screenshot 2024-10-22 at 23.28.57 (1).png>)
+<img src="../../.gitbook/assets/Screenshot 2024-10-22 at 23.28.57 (1).png" alt="" data-size="original">
 
 </details>
 
@@ -169,16 +169,16 @@ Every GitBook user can take advantage of basic customization options on their do
 
 Advanced customization options include:
 
-* **Custom logo** – Add a logo that replaces the emoji and title at the top of your docs site.
-* **Custom font** – Change the font of your docs to one of the built-in options.
-* **Footer** – Add a custom logo, copyright text and navigation to a footer at the bottom of your documentation.
-* **Bold, Contrast and Custom themes** – Customize the primary color of your docs, as well as setting the background color for your header and the links within it.
-* **Ask GitBook AI** – Let your users ask anything about your product from the Search menu. GitBook AI will scan your documentation and provide a plain English answer in seconds.
+* **Custom logo** – Add a logo that replaces the emoji and title at the top of your docs site.
+* **Custom font** – Change the font of your docs to one of the built-in options.
+* **Footer** – Add a custom logo, copyright text and navigation to a footer at the bottom of your documentation.
+* **Bold, Contrast and Custom themes** – Customize the primary color of your docs, as well as setting the background color for your header and the links within it.
+* **Ask GitBook AI** – Let your users ask anything about your product from the Search menu. GitBook AI will scan your documentation and provide a plain English answer in seconds.
 
 ### What _cannot_ be customized?
 
 The options above provide lots of ways for you to customize your space, but there are a few things that you won’t be able to customize, regardless of [your chosen plan](../../account-management/plans/).
 
 1. It’s not possible to customize the layout of the elements on the page. (However, it _is_ possible to [hide certain elements](page-layouts.md) on a page-by-page basis)
-2. There’s no way to insert custom code, such as CSS, HTML, JS, etc., directly into one or more documentation pages. If you’re looking to integrate a third party service, take a look at [the docs for our integrations platform](https://developer.gitbook.com/). We already integrate with a number of popular tools, and offer [rich embeds](../../content-editor/blocks/embed-a-url.md) for many more.&#x20;
+2. There’s no way to insert custom code, such as CSS, HTML, JS, etc., directly into one or more documentation pages. If you’re looking to integrate a third party service, take a look at [the docs for our integrations platform](https://developer.gitbook.com/). We already integrate with a number of popular tools, and offer [rich embeds](../../content-editor/blocks/embed-a-url.md) for many more.
 3. It’s not possible to remove the small "Powered by GitBook" link that appears in published documentation.

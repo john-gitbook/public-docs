@@ -46,7 +46,7 @@ From the table of contents you can:
 * create new [pages](navigation.md#pages) and subpages
 * create [page groups](navigation.md#groups)
 * add [external links](navigation.md#external-links)
-* [import external docs](../../) like websites or Markdown files
+* [import external docs](../../import.md) like websites or Markdown files
 * access [the Actions menu](navigation.md#the-actions-menu) <img src="../../.gitbook/assets/Actions menu.png" alt="Three vertical dots" data-size="line"> for individual pages.
 
 If you want to give more focus to the content of your page, you can temporarily hide the table of contents by hovering your cursor next to it and clicking the **Hide** button <img src="../../.gitbook/assets/Hide button.png" alt="The &#x27;hide&#x27; icon" data-size="line"> that appears. To make it appear again, hover your cursor near the edge of the page and click the **Show** button <img src="../../.gitbook/assets/Show button.png" alt="The &#x27;show&#x27; icon" data-size="line">.
@@ -91,7 +91,7 @@ The space header is located directly beneath the space overview, and lets you co
 * **Change requests**\
   Create, update, and delete [change requests](../../collaboration/change-requests.md) in your space.
 * **The edit button**\
-  If your space is published, or someone has locked[ live edits](../editing-content/live-edits.md), the **Edit in change request** button will appear in the space header. It lets you start a new [change request](../../collaboration/change-requests.md) to edit content.
+  If your space is published, or someone has locked[ live edits](../../editing-content/live-edits.md), the **Edit in change request** button will appear in the space header. It lets you start a new [change request](../../collaboration/change-requests.md) to edit content.
 
 ### Content editor
 
@@ -116,7 +116,7 @@ The page’s Actions menu <img src="../../.gitbook/assets/Actions menu.png" alt=
 You can open the Actions menu using the <img src="../../.gitbook/assets/Actions menu.png" alt="three vertical dots" data-size="line"> icon that appears when hovering over your page in the sidebar, or from the icon next to the page title.
 
 {% hint style="info" %}
-The type of actions available will depend on whether you’re in live editing mode, a change request, or in a space with [locked edits](../editing-content/live-edits.md).
+The type of actions available will depend on whether you’re in live editing mode, a change request, or in a space with [locked edits](../../editing-content/live-edits.md).
 {% endhint %}
 
 ### Page options
