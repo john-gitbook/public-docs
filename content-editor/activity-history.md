@@ -11,7 +11,7 @@ You can easily monitor all the changes people have made to your content using to
 
 In the Version history of a space, you can see a list of all the actions that changed the content within it. These include:
 
-* When someone made [live edits](../editing-content/live-edits.md) to the space.
+* When someone made [live edits](editing-content/live-edits.md) to the space.
 * When someone merged a [change request](../collaboration/change-requests.md).
 * When someone performed a [Git Sync](../integrations/git-sync/) operation.
 

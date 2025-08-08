@@ -10,7 +10,7 @@ A change request is a copy of your main content. It comes from the simple concep
 In a change request, you can edit, update and delete elements of your content, request reviews on your changes, then merge them back into your main version to apply all the changes you made.
 
 {% hint style="info" %}
-**Note:** You’ll need to open a change request to edit any content in any [published](../published-documentation/overview.md) space, any space that’s [synced with GitHub or GitLab](../integrations/git-sync/), or any space with [locked live edits](../editing-content/live-edits.md).
+**Note:** You’ll need to open a change request to edit any content in any [published](../published-documentation/overview.md) space, any space that’s [synced with GitHub or GitLab](../integrations/git-sync/), or any space with [locked live edits](../content-editor/editing-content/live-edits.md).
 {% endhint %}
 
 ### Product Demo

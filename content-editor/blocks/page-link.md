@@ -8,14 +8,14 @@ Page link blocks are the best way create relations between different pages withi
 
 ### Example of page link block
 
-The links below point to [blocks](./) and [inline content](../../editing-content/inline.md):
+The links below point to [blocks](./) and [inline content](../editing-content/inline.md):
 
 {% content-ref url="./" %}
 [.](./)
 {% endcontent-ref %}
 
-{% content-ref url="../../editing-content/inline.md" %}
-[inline.md](../../editing-content/inline.md)
+{% content-ref url="../editing-content/inline.md" %}
+[inline.md](../editing-content/inline.md)
 {% endcontent-ref %}
 
 ## Representation in Markdown
