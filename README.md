@@ -4,18 +4,54 @@ hidden: true
 noIndex: true
 icon: arrow-up-to-line
 ---
-Hello world
-New line
-another line
 
 # Import
+
+Hello world\
+New line\
+another line
+
+
+
+```mermaid
+graph TD
+    A[Feeling hungry?] -->|Yes| B{What do you want to eat?};
+    A -->|No| C[Go back to doing nothing];
+    B -->|Pizza| D[Order a pizza];
+    B -->|Salad| E[Question your life choices];
+    B -->|Something healthy| E;
+    D --> F[Wait 30 minutes];
+    E --> F;
+    F --> G[Eat and be happy];
+    C --> A;
+```
+
+
+
+```mermaid
+graph TD
+    A[Start a task];
+    A --> B{Feeling motivated?};
+    B -->|Yes| C[Do a tiny bit of work];
+    B -->|No| D[Get a snack];
+    C --> E{Feeling productive?};
+    E -->|Yes| F[Keep going!];
+    E -->|No| D;
+    F --> G{Is the deadline tomorrow?};
+    G -->|No| D;
+    G -->|Yes| H[PANIC!];
+    D --> I[Browse social media for hours];
+    I --> H;
+    H --> J[Actually finish the task in a frenzy];
+    J --> K[Sleep];
+```
 
 There are two methods for importing content into GitBook:
 
 1. [Using our import tool](./#using-our-import-tool)
 2. [Using Git Sync](./#importing-via-git-sync)
 
-### Using our import tool
+#### Using our import tool
 
 You can migrate and unify existing documentation in GitBook using the import tool. You have the option to import single or multiple pages — although some limits apply, which we’ll explain below.
 
@@ -24,7 +60,7 @@ You can migrate and unify existing documentation in GitBook using the import too
 Only users with [editor permissions or higher](account-management/member-management/roles.md) can edit pages.
 {% endhint %}
 
-#### Supported import formats
+**Supported import formats**
 
 GitBook supports imports from websites or files in the following formats:
 
@@ -43,7 +79,27 @@ We also support imports from:
 
 If you want to **import multiple pages**, you can upload a ZIP file containing HTML or Markdown files.
 
-#### The Import panel
+**The Import panel**
+
+
+
+```mermaid
+graph TD
+    A[Alarm goes off];
+    A --> B{Is it the weekend?};
+    B -->|Yes| C[Back to bed];
+    B -->|No| D[Stumble out of bed];
+    D --> E{What's the plan for today?};
+    E -->|Just staying home| F[Find the comfiest sweatpants];
+    E -->|Going out| G[Consider wearing real clothes];
+    F --> H[Go back to the couch];
+    G --> I{Am I seeing people I know?};
+    I -->|Yes| J[Spend 20 mins trying on outfits];
+    I -->|No| K[Wear the least-stained shirt];
+    J --> L[Settle for the first thing you tried on];
+    K --> M[You're ready.];
+    L --> M;
+```
 
 When you create a new [space](content-editor/editor/content-structure/what-is-a-space.md), you’ll have the option to import content from the bottom sheet of the first empty page:
 
@@ -57,14 +113,14 @@ After choosing an input source, you can select the file you’d like to import.
 Although GitBook supports importing content from different sources, the result may differ from your source due to differences in product features and document formats.
 {% endhint %}
 
-#### Limitations
+**Limitations**
 
 GitBook currently has the following limits for imported content:
 
 * The maximum number of pages that can be uploaded in a single import is **20**.
 * The maximum number of files (images etc.) that can be uploaded in a single import is **20**.
 
-### Importing via Git Sync
+#### Importing via Git Sync
 
 If you want to import large amounts of content, you can use our [Git Sync](integrations/git-sync/) feature, which has no limitation on the amount of content that can be imported.
 
