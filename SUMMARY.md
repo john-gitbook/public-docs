@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Top Page](README.md)
+* [Page 3](README.md)
+* [Top Page](<README (3).md>)
 * [Import](<README (2).md>)
 * [😃 Overview](content-editor/overview.md)
 * [Editor](content-editor/editor/README.md)
