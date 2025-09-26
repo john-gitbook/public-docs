@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Commit messages & Autolink
 
 By default, when exporting content from GitBook to the Git repository, GitBook will generate a commit message based on the merged change request:
@@ -28,11 +14,7 @@ Use the following URL format, where `space` corresponds to your space’s URL:
 
 `<https://app.gitbook.com/s/space/~/changes/<num>/`
 
-<div data-full-width="false">
-
-<figure><img src="../../.gitbook/assets/autolink.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div data-full-width="false"><figure><img src="../../.gitbook/assets/autolink.png" alt=""><figcaption></figcaption></figure></div>
 
 ## Customize the commit message template
 
@@ -40,8 +22,8 @@ When using GitBook with a [monorepo](monorepos.md), or when you have specific gu
 
 The template can contain the following placeholders:
 
-- `{change_request_number}` unique numeric ID for the change request
-- `{change_request_subject}` the subject of the change request when merged, or `No subject` if none has been provided.
+* `{change_request_number}` unique numeric ID for the change request
+* `{change_request_subject}` the subject of the change request when merged, or `No subject` if none has been provided.
 
 The default template is:
 

@@ -6,11 +6,11 @@ description: >-
 
 # Tabs
 
-A tab block is a single block with the option to add multiple tabs.&#x20;
+A tab block is a single block with the option to add multiple tabs.
 
-Each tab is like a mini page — it can contain multiple other blocks, of any type. So you can add code blocks, images, integration blocks and more to individual tabs in the same tab block.
+Each tab is like a mini page — it can contain multiple other blocks, of any type. So you can add code blocks, images, integration blocks and more to individual tabs in the same tab block.
 
-They’re great for adding similar or related information without making your page really long — such as code snippets in multiple languages, or instructions for completing the same tasks on different operating systems.
+They’re great for adding similar or related information without making your page really long — such as code snippets in multiple languages, or instructions for completing the same tasks on different operating systems.
 
 ### Add or delete tabs
 
@@ -37,7 +37,6 @@ Here are the instructions for Linux
 ### Representation in Markdown
 
 ```markdown
-{% raw %}
 {% tabs %}
 
 {% tab title="Windows" %} Here are the instructions for Windows {% endtab %}
@@ -47,5 +46,4 @@ Here are the instructions for Linux
 {% tab title="Linux" %} Here are the instructions for Linux {% endtab %}
 
 {% endtabs %}
-{% endraw %}
 ```

@@ -43,7 +43,6 @@ This is an inline <img src="../../.gitbook/assets/notification.png" alt="" data-
 ### Representation in Markdown
 
 ```markdown
-{% raw %}
 {% hint style="info" %}
 **Info hints** are great for showing general information, or providing tips and tricks.
 {% endhint %}
@@ -70,5 +69,4 @@ This is an inline <img src=".gitbook/assets/notification.png" alt="" data-size="
 
 - This is a second <mark style="color:orange;background-color:purple;">line using an unordered list and color</mark>
 {% endhint %}
-{% endraw %}
 ```

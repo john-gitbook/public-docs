@@ -19,13 +19,15 @@ If you upload your API spec as a file, you will have to re-upload the new versio
 An alternative solution is to use Git Sync with an OpenAPI spec file in the synced repository. Store the OpenAPI spec in a repository as a JSON/YAML file and reference it in Markdown:
 
 {% code overflow="wrap" %}
-```markdown
-{% raw %}
-{% swagger src="./openapi.json" path="/collections/{collectionId}" method="get" expanded="true" %} 
-[openapi.json](./openapi.json) 
-{% endswagger %}
-{% endraw %}
+```
 ```
 {% endcode %}
 
+\`\`\`markdown \{% swagger src="./openapi.json" path="/collections/{collectionId}" method="get" expanded="true" %\} \[openapi.json]\(./openapi.json) \{% endswagger %\}
+
+```
+
+</div>
+
 Every time this file changes and a commit is pushed to GitHub, your docs will also update. This ensures that your documentation is always up to date with your latest API changes.
+```

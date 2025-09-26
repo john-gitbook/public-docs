@@ -4,13 +4,13 @@ description: "Embed content directly into your page with a URL —\_including vi
 
 # Embedded URLs
 
-To add an embedbed URL, simply paste the link of the content you want to embed and hit `Enter`!&#x20;
+To add an embedbed URL, simply paste the link of the content you want to embed and hit `Enter`!
 
 {% hint style="info" %}
 **Note:** The content you want to embed must be publicly available in order for GitBook to access the file. For example, when embedding a Google doc the share settings must be set to _Anyone with the link_.
 {% endhint %}
 
-Here are a few examples of the kind of content you can embed into GitBook — and there are many more!
+Here are a few examples of the kind of content you can embed into GitBook — and there are many more!
 
 ### Videos
 
@@ -31,7 +31,5 @@ Here are a few examples of the kind of content you can embed into GitBook — a
 ### Representation in Markdown
 
 ```markdown
-{% raw %}
 {% embed url="URL_HERE" %}
-{% endraw %}
 ```

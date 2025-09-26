@@ -1,20 +1,6 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 1. Choose a subdomain and its location
 
-Here are some examples of domains you can set in GitBook.&#x20;
+Here are some examples of domains you can set in GitBook.
 
 | Domain type      | Example                                                                                                       | Supported? |
 | ---------------- | ------------------------------------------------------------------------------------------------------------- | :--------: |
@@ -30,12 +16,12 @@ There are two levels at which a custom domain can be set:
 2. At the **docs site** level
 
 {% hint style="warning" %}
-**Your URL path will depend on where you set the domain.**&#x20;
+**Your URL path will depend on where you set the domain.**
 {% endhint %}
 
 ## Organization custom domains
 
-Because organizations can contain many sites (and internal spaces) any custom domain set for the organization will apply to all published sites unless overridden.&#x20;
+Because organizations can contain many sites (and internal spaces) any custom domain set for the organization will apply to all published sites unless overridden.
 
 {% hint style="info" %}
 Each published site will follow after your organization's domain
@@ -49,7 +35,7 @@ If you’ve decided that you want to set a custom domain at the organization lev
 
 If you want to set up a domain different from your main organization domain, or you want to maintain a shorter URL path, you should set the domain directly at a site level.
 
-For example, the domains set for _Site A_ and _Site B_ could be:&#x20;
+For example, the domains set for _Site A_ and _Site B_ could be:
 
 * `site-a-domain/page-group/page`
 * `site-b-domain/page-group/page`
