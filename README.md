@@ -2,6 +2,14 @@
 
 Link to a heading in a page in this space:
 
+{% hint style="warning" %}
+For security reasons, do **not use accounts with administrator level access** to generate API keys. Create a specific CLI user with basic permissions instead. This will minimize the possible impact of compromised keys.
+{% endhint %}
+
+
+
+
+
 [#learn-more-about](content-editor/editing-content/#learn-more-about "mention")
 
 [#representation-in-markdown](content-editor/blocks/unordered-list.md#representation-in-markdown "mention")
