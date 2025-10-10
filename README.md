@@ -8,6 +8,7 @@ For security reasons, do **not use accounts with administrator level access** to
 
 {% hint style="warning" %} For security reasons, do not use accounts with administrator level access to generate API keys. Create a specific CLI user with basic permissions instead. This will minimize the possible impact of compromised keys. {% endhint %}
 
+{% hint style="warning" %} Once the API key generation window is closed, the key contents will not be accessible through the domain login page, so be sure to store it securely for future reference. {% endhint %}
 
 
 
