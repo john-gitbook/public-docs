@@ -30,11 +30,11 @@ If hi you have intrusion detection systems active on your infrastructure, be awa
 hello world! Hi
 {% endhint %}
 
-Some text here.
 
-{% hint style="warning" %\}
+
+{% hint style="warning" %}
 For some security reasons, do to generate API keys. Create a specific CLI user with basic permissions instead. This will minimize the possible impact of compromised keys. 
-{% endhint %\}
+{% endhint %}
 
 
 
