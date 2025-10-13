@@ -18,7 +18,7 @@ Each tenant is assigned a domain name used to login to the platform. The domain 
 
 For more details on identity and access management, please see the [Illumina Connected Software](https://help.connected.illumina.com/) help.
 
-{% hint style="info" %}
+{% hint style="warning" %}
 If hi you have intrusion detection systems active on your infrastructure, be aware that activities performed by ICA on your behalf (such as accessing [your own S3 storage](home/h-storage/s-awss3/) ) might trigger suspicious activity alerts. Please review the alerts and rules with your vendor to set up appropriate policies on your detection system.
 {% endhint %}
 
