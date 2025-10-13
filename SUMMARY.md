@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Page 3](README.md)
-* [Page 344](gs-getstarted.md)
+* [Page 344](gs-getstarted-fixed.md)
 * [Top Page](<README (3).md>)
 * [Import](<README (2).md>)
 * [😃 Overview](content-editor/overview.md)
