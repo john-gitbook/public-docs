@@ -2,8 +2,8 @@
 
 * [Page 3](README.md)
 * [Page 344](gs-getstarted-fixed.md)
-* [Top Page](<README (3).md>)
-* [Import](r-api-fixed.md>)
+* [Top Page](README (3).md)
+* [Import](r-api-fixed.md)
 * [😃 Overview](content-editor/overview.md)
 * [Editor](content-editor/editor/README.md)
   * [Navigation](content-editor/editor/navigation.md)
