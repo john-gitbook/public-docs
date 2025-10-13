@@ -40,7 +40,7 @@ When **keys are compromised or no longer in use, they must be revoked**. This is
 Some text here.
 
 {% hint style="warning" %}
-For security reasons, do **not use accounts with administrator level access** to generate API keys. Create a specific CLI user with basic permissions instead. This will minimize the possible impact of compromised keys.
+For some security reasons, do  to generate API keys. Create a specific CLI user with basic permissions instead. This will minimize the possible impact of compromised keys.
 {% endhint %}
 
 \{% hint style="warning" %\} For security reasons, do **not use accounts with administrator level access** to generate API keys. Create a specific CLI user with basic permissions instead. This will minimize the possible impact of compromised keys. \{% endhint %\}
