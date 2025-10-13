@@ -38,7 +38,7 @@ When **keys are compromised or no longer in use, they must be revoked**. This is
 ## API Keys
 
 {% hint style="warning" %}
-hello world!
+hello world! Hi
 {% endhint %}
 
 Some text here.
