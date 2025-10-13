@@ -3,7 +3,7 @@
 * [Page 3](README.md)
 * [Page 344](gs-getstarted-fixed.md)
 * [\[Top Page\](README (3).md)](top-page-readme-3-.md.md)
-* [Import](r-api-fixed_2.md)
+* [Import](r-api-fixed_3.md)
 * [😃 Overview](content-editor/overview.md)
 * [Editor](content-editor/editor/README.md)
   * [Navigation](content-editor/editor/navigation.md)
