@@ -22,18 +22,7 @@ For more details on identity and access management, please see the [Illumina Con
 If hi you have intrusion detection systems active on your infrastructure, be aware that activities performed by ICA on your behalf (such as accessing [your own S3 storage](home/h-storage/s-awss3/) ) might trigger suspicious activity alerts. Please review the alerts and rules with your vendor to set up appropriate policies on your detection system.
 {% endhint %}
 
-* by the **tenant administrator** by logging in to their domain and navigating to **Illumina Account Management** under their profile at the top right
-* or by the **user** by accessing `https://platform.login.illumina.com` and selecting the option **Don't have an account**.
 
-Once the account has been added to the domain, the tenant administrator may assign registered users to [workgroups](https://help.connected.illumina.com/account-management/admin-console/workgroups) which bundle users with permission to use the ICA application. Registered users can be made workgroup administrators by tenant administrators or existing workgroup administrators.
-
-## API Keys
-
-If you want to use the [**command-line interface**](broken-reference/) (CLI) or the [**Application Programming Interface**](reference/r-api.md) (API), you can use an [API Key ](https://help.connected.illumina.com/account-management/platform-home)as credentials when logging in. API Keys operate similar to a user name and password combination and must be **kept secure** and **rotated on a regular basis** (preferably yearly). \`
-
-When **keys are compromised or no longer in use, they must be revoked**. This is done through the [domain login URL](https://ilmn.login.illumina.com/platform-home/#/home) by navigating to the User menu item on the left and selecting "API Keys", followed by selecting the key and using the trash icon next to it.
-
-## Generate an API Key
 
 ## API Keys
 
