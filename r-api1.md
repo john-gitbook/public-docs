@@ -2,7 +2,7 @@
 icon: file-binary
 ---
 
-# API
+# Import
 
 The ICA APIs are hosted via a swagger-based UI in accordance to the OpenAPI 3.0 specification.
 
@@ -34,23 +34,21 @@ Cursor-based pagination uses the parameter `pageSize` (amount of rows to return)
 Suppose a list of projects, with 2 projects returned per page (enter your API key in the YOUR\_API\_KEY part of the expression)
 
 {% code fullWidth="false" %}
-`````
-'https://ica.illumina.com/ica/rest/api/projects?includeHiddenProjects=false&pageSize=2' \
--H 'accept: application/vnd.illumina.v3+json' \
--H 'X-API-Key: YOUR_API_KEY'````
-`````
+```
+https://ica.illumina.com/ica/rest/api/projects?includeHiddenProjects=false&pageSize=2' \ -H 'accept: application/vnd.illumina.v3+json' \ -H 'X-API-Key: YOUR_API_KE
+```
 {% endcode %}
 
 The response will contain a pointer to the next page `"nextPageToken": "A_STRING_OF_LETTERS_AND_NUMBERS"` You then use that pointer (the string of numbers and letters) to get the next 2 entries by replacing A\_STRING\_OF\_LETTERS\_AND\_NUMBERS by the returned next page token
 
-{% code fullWidth="false" %}
 ```
 curl -X 'GET' \
   'https://ica.illumina.com/ica/rest/api/projects?includeHiddenProjects=false&pageToken=A_STRING_OF_LETTERS_AND_NUMBERS_HERE&pageSize=2' \
   -H 'accept: application/vnd.illumina.v3+json' \
   -H 'X-API-Key: YOUR_API_KEY'
 ```
-{% endcode %}
+
+
 
 ### Offset-based pagination
 
@@ -85,7 +83,7 @@ For more details, use the [API Reference](https://ica.illumina.com/ica/api/swagg
 
 ## File output behavior
 
-For [advanced output mappings](../project/p-flow/f-analyses.md#analysis-output-mappings), the overwrite behavior for file output can be set with the API parameter actionOnExist. This is a string, which supports the following options if a file or folder by that name already exists at that location.
+For [advanced output mappings](project/p-flow/f-analyses.md#analysis-output-mappings), the overwrite behavior for file output can be set with the API parameter actionOnExist. This is a string, which supports the following options if a file or folder by that name already exists at that location.
 
 * **Overwrite** (default) : The existing file is overwritten.
 * **Rename** : The file is renamed by appending an incremental counter, before the extension.
@@ -127,7 +125,7 @@ When running POST /api/projects/{projectId}/sampleCreationBatch, the input is ch
 
 ## Analyses Ouputs Endpoint
 
-API request  `GET​/api​/projects​/{projectId}​/analyses​/{analysisId}​/outputs` will return `analysisData` as part of the response. This is done for backwards compatibilty and should not actively be used. For this reason, analysisData is not documented in the [API Reference](https://ica.illumina.com/ica/api/swagger/index.html) page.
+API request `GET​/api​/projects​/{projectId}​/analyses​/{analysisId}​/outputs` will return `analysisData` as part of the response. This is done for backwards compatibilty and should not actively be used. For this reason, analysisData is not documented in the [API Reference](https://ica.illumina.com/ica/api/swagger/index.html) page.
 
 ***
 
@@ -139,7 +137,7 @@ The API call `POST /api/projects/{projectId}/analysis:nextflowWithCustomInput` t
 
 #### URL Parameters
 
-* **projectId** (required): The unique identifier of the project where the pipeline is located. This  parameter must be provided in the URL.&#x20;
+* **projectId** (required): The unique identifier of the project where the pipeline is located. This parameter must be provided in the URL.
 
 #### Request Body
 
@@ -220,13 +218,13 @@ process writetooutput {
 
 To be provided with the request. The unescaped JSON is provided for legibility.
 
+
+
 {% tabs %}
 {% tab title="JSON" %}
-{% code overflow="wrap" %}
 ```json
 "{\"maxagesum\":null,\"ttt\":[\"test\"],\"txts\":[\"dummy.txt\"],\"notallowedcondition\":null,\"notallowedrole\":null,\"group\":[{\"role\":\"c\",\"conditions\":[\"1cancer\",\"covid1\"],\"age\":111,\"info\":[\"test.csv\"]},{\"role\":\"f\",\"conditions\":[\"cancer22\",\"covewd2\"],\"age\":null,\"info\":[\"test.csv\"]}]}"
 ```
-{% endcode %}
 {% endtab %}
 
 {% tab title="Unescaped JSON" %}
