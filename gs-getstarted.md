@@ -43,17 +43,22 @@ hello world! Hi
 
 Some text here.
 
-\{% hint style="warning" %\} For some security reasons, do to generate API keys. Create a specific CLI user with basic permissions instead. This will minimize the possible impact of compromised keys. \{% endhint %\}
+{% hint style="warning" %\}
+For some security reasons, do to generate API keys. Create a specific CLI user with basic permissions instead. This will minimize the possible impact of compromised keys. 
+{% endhint %\}
 
 
 
-\{% hint style="warning" %\} For security reasons, do **not use accounts with administrator level access** to generate API keys. Create a specific CLI user with basic permissions instead. This will minimize the possible impact of compromised keys. \{% endhint %\}
+{% hint style="warning" %\} For security reasons, do **not use accounts with administrator level access** to generate API keys. Create a specific CLI user with basic permissions instead. This will minimize the possible impact of compromised keys. 
+{% endhint %\}
 
 More text here.
 
 API Keys are limited to 10 per user and are managed through the product dashboard after logging in through the [domain login URL](https://ilmn.login.illumina.com/platform-home/#/home). See[ Managing API Keys](https://help.connected.illumina.com/account-management/platform-home#manage-api-keys) for more information. \{% hint style="warning" %\} For security reasons, do **not use accounts with administrator level access** to generate API keys. Create a specific CLI user with basic permissions instead. This will minimize the possible impact of compromised keys. \{% endhint %\}
 
-\{% hint style="warning" %\} Once the API key generation window is closed, the key contents will not be accessible through the domain login page, so be sure to store it securely for future reference. \{% endhint %\}
+{% hint style="warning" %\}
+Once the API key generation window is closed, the key contents will not be accessible through the domain login page, so be sure to store it securely for future reference. 
+{% endhint %\}
 
 ***
 
@@ -75,7 +80,9 @@ The command-line interface offers a developer-oriented experience for interactin
 
 The HTTP-based application programming interfaces (APIs) are listed in the [API Reference](reference/r-api.md) section of the documentation. The reference documentation provides the ability to call APIs from the browser page and shows detailed information about the API schemas. HTTP client tooling such as Postman or cURL can be used to make direct calls to the API outside of the browser.
 
-\{% hint style="info" %\} When accessing the API using the API Reference page or through REST client tools, the `Authorization` header must be provided with the value set to `Bearer <token>` where `<token>` is replaced with a valid JSON Web Token (JWT). For generating a JWT, see [JSON Web Token (JWT)](gs-getstarted.md#json-web-token-jwt). \{% endhint %\}
+{% hint style="info" %\} 
+When accessing the API using the API Reference page or through REST client tools, the `Authorization` header must be provided with the value set to `Bearer <token>` where `<token>` is replaced with a valid JSON Web Token (JWT). For generating a JWT, see [JSON Web Token (JWT)](gs-getstarted.md#json-web-token-jwt). 
+{% endhint %\}
 
 ***
 
