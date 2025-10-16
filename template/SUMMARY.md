@@ -20,7 +20,7 @@
 
 * [Editor](basics/editor.md)
 
-***
+## API Reference
 
 * ```yaml
   type: builtin:openapi
@@ -32,3 +32,4 @@
         kind: openapi
         spec: john-ultimate-site-api
   ```
+* [Page 1](api-reference/page-1.md)
