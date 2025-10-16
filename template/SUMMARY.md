@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-* [Quickstart](getting-started/quickstart/README.md)
+* [Quickstart](getting-started/quickstart.md)
   * [Subpage](getting-started/quickstart/subpage/README.md)
     * [Sub Subpage](getting-started/quickstart/subpage/sub-subpage.md)
     * [Sub Subpage 2](getting-started/quickstart/subpage/sub-subpage-2.md)
