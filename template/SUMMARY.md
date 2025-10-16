@@ -19,3 +19,16 @@
 ## Basics
 
 * [Editor](basics/editor.md)
+
+***
+
+* ```yaml
+  type: builtin:openapi
+  props:
+    models: true
+  dependencies:
+    spec:
+      ref:
+        kind: openapi
+        spec: john-ultimate-site-api
+  ```
