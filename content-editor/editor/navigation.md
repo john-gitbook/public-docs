@@ -46,7 +46,7 @@ From the table of contents you can:
 * create new [pages](navigation.md#pages) and subpages
 * create [page groups](navigation.md#groups)
 * add [external links](navigation.md#external-links)
-* [import external docs](<../../README (2).md>) like websites or Markdown files
+* [import external docs](broken-reference) like websites or Markdown files
 * access [the Actions menu](navigation.md#the-actions-menu) <img src="../../.gitbook/assets/Actions menu.png" alt="Three vertical dots" data-size="line"> for individual pages.
 
 If you want to give more focus to the content of your page, you can temporarily hide the table of contents by hovering your cursor next to it and clicking the **Hide** button <img src="../../.gitbook/assets/Hide button.png" alt="The &#x27;hide&#x27; icon" data-size="line"> that appears. To make it appear again, hover your cursor near the edge of the page and click the **Show** button <img src="../../.gitbook/assets/Show button.png" alt="The &#x27;show&#x27; icon" data-size="line">.

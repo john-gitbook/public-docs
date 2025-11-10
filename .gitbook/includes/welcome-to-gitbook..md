@@ -3,5 +3,5 @@ title: Welcome to GitBook.
 ---
 
 {% hint style="info" %}
-Welcome to [GitBook](<../../README (2).md>).
+Welcome to [GitBook](broken-reference).
 {% endhint %}

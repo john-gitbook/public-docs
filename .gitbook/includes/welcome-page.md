@@ -5,7 +5,7 @@ title: Welcome page
 We want to help **teams to work more efficiently** with a simple but powerful platform that helps them **share their knowledge**.
 
 {% hint style="info" %}
-Welcome to [GitBook](<../../README (2).md>).
+Welcome to [GitBook](broken-reference).
 {% endhint %}
 
 ## Discover GitBook
