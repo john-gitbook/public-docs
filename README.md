@@ -1,33 +1,13 @@
 ---
-icon: hand-wave
 description: >-
-  GitBook is a platform for capturing and documenting technical knowledge — from
-  product docs, to internal knowledge bases and APIs.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
+  Create and publish AI-native documentation your users will love. GitBook gives
+  you intelligent tools to build product guides, API references, and
+  documentation that improves over time.
+icon: book-open
 ---
 
-# Welcome
+# GitBook documentation hello
 
-We want to help **teams to work more efficiently** with a simple but powerful platform that helps them **share their knowledge**.
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-type="image">Cover image (dark)</th><th data-hidden data-type="image">Cover image (dark)</th><th data-hidden data-type="image">Cover image (dark)</th><th data-hidden data-type="image">Cover image (dark)</th><th data-hidden data-card-cover-dark data-type="image">Cover image (dark)</th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>Quick start</strong></td><td>Get up and running with GitBook in just a few minutes</td><td><a href=".gitbook/assets/25_12_10_content_editor.png">25_12_10_content_editor.png</a></td><td></td><td></td><td></td><td><a href=".gitbook/assets/25_12_10_quick_start_1.png">25_12_10_quick_start_1.png</a></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td><td><a href=".gitbook/assets/25_12_10_quick_start.png">25_12_10_quick_start.png</a></td></tr><tr><td><strong>Git Sync</strong></td><td>Sync with a Git repository to enable docs-as-code workflows</td><td></td><td><a href=".gitbook/assets/25_12_10_git_sync.png">25_12_10_git_sync.png</a></td><td></td><td></td><td><a href=".gitbook/assets/25_12_10_git_sync_2.png">25_12_10_git_sync_2.png</a></td><td><a href="getting-started/git-sync/">git-sync</a></td><td><a href=".gitbook/assets/25_12_10_git_sync_1.png">25_12_10_git_sync_1.png</a></td></tr><tr><td><strong>Create content</strong></td><td>Create and format your docs using our block-based editor</td><td></td><td></td><td><a href=".gitbook/assets/25_12_10_create_content.png">25_12_10_create_content.png</a></td><td></td><td><a href=".gitbook/assets/25_12_10_create_content_2.png">25_12_10_create_content_2.png</a></td><td><a href="/broken/pages/m5Yqxmw2ZT0HNZdTJPvi">Broken link</a></td><td><a href=".gitbook/assets/25_12_10_create_content_1.png">25_12_10_create_content_1.png</a></td></tr><tr><td><strong>Publish your docs</strong></td><td>Publish your docs site to share with others</td><td></td><td></td><td></td><td><a href=".gitbook/assets/25_12_10_publish_your_docs.png">25_12_10_publish_your_docs.png</a></td><td><a href=".gitbook/assets/25_12_10_publish_your_docs_2.png">25_12_10_publish_your_docs_2.png</a></td><td><a href="/broken/pages/AlMbfJIU79LjXBXogmct">Broken link</a></td><td><a href=".gitbook/assets/25_12_10_publish_your_docs_1.png">25_12_10_publish_your_docs_1.png</a></td></tr></tbody></table>
 
-Our mission is to make a **user-friendly** and **collaborative** product for everyone to create, edit and share knowledge through documentation.
-
-### Discover GitBook&#x20;
-
-<table data-view="cards"><thead><tr><th></th><th></th><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Content editor</strong></td><td>Edit pages, collections, content, and more in GitBook.</td><td></td><td><a href=".gitbook/assets/content-editor.png">content-editor.png</a></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Snippets &#x26; insights</strong></td><td>Learn about capturing and refining knowledge in GitBook.</td><td></td><td><a href=".gitbook/assets/snippets-and-insights (2).png">snippets-and-insights (2).png</a></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Integrations</strong></td><td>Learn about the tools and workflows you can integrate with.</td><td></td><td><a href=".gitbook/assets/integrations (4).png">integrations (4).png</a></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Published documentation</strong></td><td>Discover how to share and customize your content publicly or privately.</td><td></td><td><a href=".gitbook/assets/published-documentation (1).png">published-documentation (1).png</a></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Collaboration</strong></td><td>Learn how to invite and collaborate with your team.</td><td></td><td><a href=".gitbook/assets/collaboration (1).png">collaboration (1).png</a></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Account management</strong></td><td>Manage your organization, account, and billing.</td><td></td><td><a href=".gitbook/assets/account-management (1).png">account-management (1).png</a></td><td><a href="broken-reference">Broken link</a></td></tr></tbody></table>
-
-### GitBook Product Demo
-
-{% embed url="https://www.youtube.com/playlist?list=PLZAlnWDc6FDsodH14aMS3eNRoTYMbua6U" %}
-GitBook Product Demo
-{% endembed %}
+<table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>Essentials</strong></td><td><ul><li><a href="getting-started/concepts.md">Concepts</a></li><li><a href="creating-content/blocks/">Blocks</a></li><li><a href="publishing-documentation/customization/">Customization</a></li><li><a href="publishing-documentation/authenticated-access/">Authenticated access</a></li><li><a href="publishing-documentation/custom-domain.md">Custom domains</a></li></ul></td></tr><tr><td><strong>AI-native docs</strong></td><td><ul><li><a href="/broken/pages/KHHFlE1MtpVIaZboN8b2">GitBook Agent</a></li><li><a href="publishing-documentation/gitbook-ai-assistant.md">GitBook Assistant</a></li><li><a href="publishing-documentation/mcp-servers-for-published-docs.md">MCP</a></li><li><a href="publishing-documentation/ai-search.md">AI Search</a></li><li><a href="publishing-documentation/llm-ready-docs.md">LLM-ready docs</a></li></ul></td></tr><tr><td><strong>Popular topics</strong></td><td><ul><li><a href="publishing-documentation/adaptive-content/">Adaptive content</a></li><li><a href="getting-started/git-sync/">GitHub &#x26; GitLab Sync</a></li><li><a href="getting-started/import.md">Migrate to GitBook</a></li><li><a href="creating-content/content-structure/">Content structure</a></li><li><a href="gitbook-agent/translations.md">Translations</a></li></ul></td></tr></tbody></table>
